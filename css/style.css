@@ -1,0 +1,18 @@
+body {
+    background-color: #0ffbf7;
+}
+
+h1 {
+    color: #8b8b8bcc;
+}
+
+p {
+    color: #46484c;
+}
+
+.boton {
+    background-color: #025157;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 15px;
+}
